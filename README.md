@@ -16,7 +16,7 @@ Reverse engineering the Volvo VIDA protocol to gather diagnostic information not
 
 # What's Different:
 
-Alfaa123 was designing his code around his C30 T5, which uses a Bosch ECU. THe 2.4i motor uses a Denso ECU. In my testing, the parameters that Alfaa123 was using to get data such as coolant temperature were not the same on my vehicle. This was mostly expected, but for this reason modifications will need to be made.
+Alfaa123 was designing his code around his C30 T5, which uses a Bosch ECU. The 2.4i motor uses a Denso ECU. In my testing, the parameters that Alfaa123 was using to get data such as coolant temperature were not the same on my vehicle. This was mostly expected, but for this reason modifications will need to be made.
 
 CANBus hardware is also different, as I am using a completely different setup and need to modify all code to work with my shield and Arduino. 
 
